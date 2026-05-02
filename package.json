@@ -1,6 +1,6 @@
 {
   "name": "mcp-swiss-army",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Swiss Army knife of MCP servers — 16 tools in a single connection. Weather, stocks, news, search, translation, and more. No API keys needed.",
   "type": "module",
   "main": "dist/index.js",
