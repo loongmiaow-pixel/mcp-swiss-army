@@ -1,0 +1,46 @@
+{
+  "name": "mcp-swiss-army",
+  "version": "1.0.0",
+  "description": "The Swiss Army knife of MCP servers — 16 tools in a single connection. Weather, stocks, news, search, translation, and more. No API keys needed.",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "mcp-swiss-army": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "test": "tsx tests/run.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "node-fetch": "^3.3.2",
+    "zod": "^4.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "swiss-army",
+    "ai-agent",
+    "claude",
+    "cursor",
+    "weather",
+    "stock",
+    "news",
+    "search",
+    "translation",
+    "all-in-one"
+  ],
+  "author": "Max Wang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/mcp-swiss-army"
+  }
+}
