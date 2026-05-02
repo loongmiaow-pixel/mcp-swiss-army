@@ -139,7 +139,3 @@ MIT — use it freely.
 ---
 
 **Built with ❤️ by Max Wang**
-
-If this saves you time, consider supporting me:
-- 🇨🇳 [爱发电 (国内)](https://afdian.com/@YOUR_ID) — 支付宝/微信
-- ☕ [Buy me a coffee](https://github.com/sponsors/YOUR_USERNAME) — GitHub Sponsors
